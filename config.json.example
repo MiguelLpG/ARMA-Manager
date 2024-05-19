@@ -1,0 +1,14 @@
+{
+    "token": "YOUR_TOKEN_HERE",
+
+    "mysql_host": "localhost",
+    "mysql_user": "user",
+    "mysql_port": "3306",
+    "mysql_database": "DATABASE_NAME",
+    "mysql_passwd": "DATABASE_PSWD_HERE (if your SQL Server doesn't have password, leave it empty)",
+
+    "bot_ready_cmd_msg": "[!] El bot se ha iniciado correctamente."
+
+    
+
+}
