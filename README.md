@@ -16,3 +16,6 @@ node index.js
      or
 npm run start
 ```
+
+<hr/>
+*This bot is meant to be accessed only by specific people, that is why it does not have any security system to prevent SQLi or similar attacks.*
